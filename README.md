@@ -4,4 +4,4 @@
 ## Java
 
 ## JWT
-220826 [인프런 springboot JWT강의 - 필기] (https://github.com/leeesu/jwt-tutorual)
+220826 [인프런 springboot JWT강의 - 필기](https://github.com/leeesu/jwt-tutorual)
