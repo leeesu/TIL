@@ -2,7 +2,7 @@ package com.java.Chapter04;
 
 import java.util.Scanner;
 
-public class FlowEx {
+public class FlowEx7 {
     public static void main(String[] args) {
         System.out.println("가위(1), 바위(2), 보(3) 중 하나를 입력하세요. >");
         Scanner scanner = new Scanner(System.in);
