@@ -1,6 +1,20 @@
-# TIL
-하루동안 공부한 것들을 기록하는 곳입니다.
-* 외부링크만 기입합니다.
+# 💬 TIL (Today I Learned)
 
-## JWT
-220826 [인프런 springboot JWT강의 - 필기](https://github.com/leeesu/jwt-tutorual)
+공부한 것들을 기록하는 곳입니다. (백업용)
+
+## ⌨ JAVA
+* [정적쿼리(Statement)와 동적쿼리(PreparedStatement)](https://github.com/leeesu/TIL/blob/main/Java/BuilderPattern%EC%9D%B4%EB%9E%80.md)
+* [자바 Scanner 클래스](https://github.com/leeesu/TIL/blob/main/Java/%EC%9E%90%EB%B0%94%20Scanner%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+* [BuilderPattern이란](https://github.com/leeesu/TIL/blob/main/Java/BuilderPattern%EC%9D%B4%EB%9E%80.md)
+* [집합자료형(Set)](https://github.com/leeesu/TIL/blob/main/Java/%EC%A7%91%ED%95%A9%EC%9E%90%EB%A3%8C%ED%98%95%20(Set).md)
+
+## 💾 JPA
+* [ORM 이란?](https://github.com/leeesu/TIL/blob/main/JPA/ORM%20%EC%9D%B4%EB%9E%80.md)
+* [Querydsl 개념(1)](https://github.com/leeesu/TIL/blob/main/JPA/QueryDSL%20%EA%B0%9C%EB%85%90%20(1)%20-%20QueryDSL%EC%9D%B4%EB%9E%80.md)
+* [Querydsl 개념(2)](https://github.com/leeesu/TIL/blob/main/JPA/QueryDSL%20%EA%B0%9C%EB%85%90(2)%20-%20QueryDSL%20%EC%B0%B8%EA%B3%A0%EC%82%AC%ED%95%AD%20%EB%B0%8F%2C%20%EB%AC%B8%EB%B2%95%20%EC%9D%B5%ED%9E%88%EA%B8%B0.md)
+
+
+## 💻 LECTURE
+* [인프런 springboot JWT강의 - 필기](https://github.com/leeesu/jwt-tutorual)
+* [자바의 정석 예제실습](https://github.com/leeesu/TIL/tree/main/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D/StandardOfJava)
+
