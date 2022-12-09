@@ -7,6 +7,7 @@
 * [자바 Scanner 클래스](https://github.com/leeesu/TIL/blob/main/Java/%EC%9E%90%EB%B0%94%20Scanner%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 * [BuilderPattern이란](https://github.com/leeesu/TIL/blob/main/Java/BuilderPattern%EC%9D%B4%EB%9E%80.md)
 * [집합자료형(Set)](https://github.com/leeesu/TIL/blob/main/Java/%EC%A7%91%ED%95%A9%EC%9E%90%EB%A3%8C%ED%98%95%20(Set).md)
+* [객체지향 프로그래밍이란](https://github.com/leeesu/TIL/blob/main/Java/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80.md)
 
 ## 💾 JPA
 * [ORM 이란?](https://github.com/leeesu/TIL/blob/main/JPA/ORM%20%EC%9D%B4%EB%9E%80.md)
