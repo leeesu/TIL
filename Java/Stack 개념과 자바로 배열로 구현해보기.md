@@ -8,7 +8,7 @@
 - 자바는 기본적으로 Stack클래스를 지원해준다.
 - 예) 가방에 물건을 넣고 꺼낼 쓸때를 생각하면 이해하기 쉽다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a3d9921-df1c-4541-904e-bd1f583154a6/Untitled.png)
+![image](https://user-images.githubusercontent.com/46406965/208439325-6c5275b7-fda6-4a29-aae5-34c4d61f9529.png)
 
   
 
