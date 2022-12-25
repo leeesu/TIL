@@ -8,12 +8,14 @@ Buffer란 동작 속도가 크게 다른 입력장치와 출력장치 그 사이
 
 ## 1. BufferedReader란?
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0f66da4-0828-4199-a58b-ae2d1d262e36/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/46406965/209471111-230cb073-44f4-4967-8d69-8179df6728f4.png)
+
 
 - 많은 양의 데이터 처리에 유리합니다.
 - 버퍼를 사용하면 키보드의 입력이 있으면 **한 문자씩 버퍼로 전송**되고, 버퍼가 가득 차거나, **개행 문자가 나타나면 내용이 한꺼번에 프로그램으로 전송됩니다**. 중간에 메모리 버퍼를 두고 묶어서 전송시키는 방법입니다. (키보드 → 버퍼 → 프로그램)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68f420c3-569e-43c0-bdfc-76b45735c861/Untitled.png)
+![Untitled111](https://user-images.githubusercontent.com/46406965/209471117-a28da10b-97b3-47a7-aa20-19561f0169bb.png)
+
 
 - 기존에 사용했던 **Scanner**는 다음과 같이 데이터가 입력되면 바로 출력장치로 전달되는 방식입니다.
 - **String만 데이터로 인식한다. 정수형으로 받으려면 형변환이 필요합니다 (Integer.parseInt() or Integer.valueOf())**
